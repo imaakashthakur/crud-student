@@ -1,0 +1,6 @@
+com\company\service\StudentService.class
+com\company\dao\impl\StudentDAOImpl.class
+com\company\dao\StudentDAO.class
+com\company\service\impl\StudentServiceImpl.class
+com\mycompany\entity\Student_.class
+com\mycompany\entity\Student.class
